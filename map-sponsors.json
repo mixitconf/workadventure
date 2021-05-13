@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":50,
@@ -96,7 +97,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.esker.fr\/"
+                 "value":"https:\/\/www.esker.fr\/carrieres\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -110,6 +116,17 @@
          "id":61,
          "name":"esker_iframe_2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/medium.com\/esker-labs"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -127,6 +144,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/SP2rrapMB3E"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,6 +167,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/r_-3oW478iM"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,6 +190,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/neo9.fr\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,6 +225,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.cgi.com\/france\/fr-fr"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,6 +260,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.soprasteria.com\/fr"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -253,6 +295,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/shodo.io\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,6 +330,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/talan.com\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -313,6 +365,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.woonoz.com\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -343,6 +400,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.isr.fr\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -373,6 +435,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.braincube.com\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -403,6 +470,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.enedis.fr\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -433,6 +505,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/redfroggy.fr\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -463,6 +540,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.feelinjob.com\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -493,6 +575,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.hiit-consulting.fr\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -989,7 +1076,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -10484,6 +10571,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":50
 }
