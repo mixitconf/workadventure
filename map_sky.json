@@ -124,6 +124,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/mixteen.org"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
