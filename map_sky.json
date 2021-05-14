@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#fromSkyStart"
+                 "value":"\/@\/mixit\/mixitconf\/mixit#fromSkyStart"
                 }],
          "type":"tilelayer",
          "visible":true,
