@@ -246,17 +246,6 @@
          "id":25,
          "name":"flour",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/mensuel.framapad.org\/p\/flour_element-9ndv"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
