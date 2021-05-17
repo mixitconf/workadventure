@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -179,7 +172,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mixteen.org"
+                 "value":"https:\/\/mixitconf.org\/wa\/sponsor\/mixteen.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -905,7 +898,7 @@
          "value":"onaction"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -2736,6 +2729,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":50
 }
